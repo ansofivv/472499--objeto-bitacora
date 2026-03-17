@@ -11,7 +11,7 @@ Conversamos sobre el texto "La tercera mesa" de Graham Harman y comenzamos bitá
 ---
  
 **Tareas:**  
-       **I. 10 cualidades mías**  
+       *I. 10 cualidades mías* 
          
        1. Alegre (x default)  
        2. Chistosa  
@@ -25,5 +25,5 @@ Conversamos sobre el texto "La tercera mesa" de Graham Harman y comenzamos bitá
        10. Dormilona  
          
      
-       **II. Revisar el texto "La estética como cosmología"**
+  *II. Revisar el texto "La estética como cosmología"*
 

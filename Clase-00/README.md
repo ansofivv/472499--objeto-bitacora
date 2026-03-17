@@ -10,7 +10,7 @@ Apuntes de la tercera mesa:
 
 ---
  
-Tareas:  
+**Tareas:**  
        - 10 cualidades mías  
        - Revisar el texto "la estética cosmológica"  
 

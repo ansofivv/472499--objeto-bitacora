@@ -11,6 +11,6 @@ Apuntes de la tercera mesa:
 ---
  
 Tareas:  
-       - 10 cualidades mías 
-       - Revisar el texto "la estética cosmológica"
+       - 10 cualidades mías  
+       - Revisar el texto "la estética cosmológica"  
 

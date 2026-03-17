@@ -12,15 +12,15 @@ Conversamos sobre el texto "La tercera mesa" de Graham Harman y comenzamos bitá
  
 **Tareas:**  
        - 10 cualidades mías  
-       1. Alegre (x default)
-       2. Chistosa
-       3. Bombita
-       4. Leal
-       5. Positiva (🧠)
-       6. Enciclopedia animal
-       7. Exigente
-       8. Simpática
-       9. Creativa
-       10. Dormilona
+       1. Alegre (x default)  
+       2. Chistosa  
+       3. Bombita  
+       4. Leal  
+       5. Positiva (🧠)  
+       6. Enciclopedia animal  
+       7. Exigente  
+       8. Simpática  
+       9. Creativa  
+       10. Dormilona  
        - Revisar el texto "la estética cosmológica"  
 

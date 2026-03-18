@@ -26,6 +26,6 @@ Conversamos sobre el texto "La tercera mesa" de Graham Harman y comenzamos bitá
          
      
   *II. Revisar el texto "La estética como cosmología"*
-!(Apuntes de la estética como cosmología)(![La estética como cosmología - Apunte 2](https://github.com/user-attachments/assets/f3a4429e-d820-424b-b02f-faeea1708704)
-![La estética como cosmología-Apunte 1](https://github.com/user-attachments/assets/94e55bc9-a77e-410e-be00-edb0ffed576d)
+![La estética como cosmología-Apunte 1](https://github.com/user-attachments/assets/33181a6f-1f79-4b98-8847-80b30eefd325)
+![La estética como cosmología - Apunte 2](https://github.com/user-attachments/assets/bcf2ca0b-4b96-488e-ac52-c686dcd1dbf6)
 

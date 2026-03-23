@@ -7,19 +7,19 @@ Fórmula 2: Arrastrando desde la carpeta de archivos. *Pero el link puede cambia
 
 Ej: ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](hamster.jpg)  
 
-    
+  - Conversamos sobre el texto "La estética como cosmología" de Graham Harman
 
-  
-  - Conversamos sobre el texto "La estética como cosmología" de Graham Harman 
+        
 ## Tareas  
-
   **I.** Analizar las obras de Mateo Cereceda y Gabriela Inostroza en la muestra *Analog ROOT* de la galería UNIACC según lo visto en clases (ontología de objetos y metáfora)  
 
-    A. 
-    "neoHaikus v2", Gabriela Inostroza
-    B. ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](donante%20universal.jpg)
-    "Donante universal", Mateo Cereceda  
+      "neoHaikus v2", Gabriela Inostroza
 
-      
+
+            
+![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](donante%20universal.jpg)  
+"Donante universal", Mateo Cereceda  
+
+
   **II.** Elegir 2 objetos y mencionar 10 cualidades de cada uno  
 

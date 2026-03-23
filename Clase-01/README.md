@@ -10,7 +10,7 @@ Ej: ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](h
     
 
   
-  - Conversamos sobre el texto "La estética como cosmología" de ...  
+  - Conversamos sobre el texto "La estética como cosmología" de Graham Harman 
 ## Tareas  
 
   **I.** Analizar las obras de Mateo Cereceda y Gabriela Inostroza en la muestra *Analog ROOT* de la galería UNIACC según lo visto en clases (ontología de objetos y metáfora)  

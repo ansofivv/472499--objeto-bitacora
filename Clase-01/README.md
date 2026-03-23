@@ -14,5 +14,12 @@ Ej: ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](h
 ## Tareas  
 
   **I.** Analizar las obras de Mateo Cereceda y Gabriela Inostroza en la muestra *Analog ROOT* de la galería UNIACC según lo visto en clases (ontología de objetos y metáfora)  
+
+    A. 
+    "neoHaikus v2", Gabriela Inostroza
+    B. 
+    "Donante universal", Mateo Cereceda  
+
+      
   **II.** Elegir 2 objetos y mencionar 10 cualidades de cada uno  
 

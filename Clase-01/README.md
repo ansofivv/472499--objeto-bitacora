@@ -13,13 +13,19 @@ Ej: ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](h
 ## Tareas  
   **I.** Analizar las obras de Mateo Cereceda y Gabriela Inostroza en la muestra *Analog ROOT* de la galería UNIACC según lo visto en clases (ontología de objetos y metáfora)  
 
-      "neoHaikus v2", Gabriela Inostroza
-
+    
+A. ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](neohaikusv2.jpg)  
+ "neoHaikus v2", Gabriela Inostroza  
+ .  
+ .  
+ .  
 
             
-![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](donante%20universal.jpg)  
+B. ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](donante%20universal.jpg)  
 "Donante universal", Mateo Cereceda  
-
+.  
+.  
+.  
 
   **II.** Elegir 2 objetos y mencionar 10 cualidades de cada uno  
 

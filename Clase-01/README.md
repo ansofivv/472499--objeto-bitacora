@@ -17,7 +17,7 @@ Ej: ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](h
 
     A. 
     "neoHaikus v2", Gabriela Inostroza
-    B. 
+    B. ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](donante%20universal.jpg)
     "Donante universal", Mateo Cereceda  
 
       

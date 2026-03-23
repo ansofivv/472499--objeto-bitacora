@@ -33,6 +33,12 @@ B. ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](do
   .  
   a. Lentes  
   ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](lentes.jpg)
+  .   
+  .  
+  .  
   b. Squishy  
-  ![
+  ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](squishy.jpg)
+  .  
+  .  
+  .  
 

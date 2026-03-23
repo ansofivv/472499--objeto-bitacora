@@ -28,4 +28,11 @@ B. ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](do
 .  
 
   **II.** Elegir 2 objetos y mencionar 10 cualidades de cada uno  
+  .  
+  .  
+  .  
+  a. Lentes  
+  ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](lentes.jpg)
+  b. Squishy  
+  ![
 

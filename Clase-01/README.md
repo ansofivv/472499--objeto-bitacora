@@ -27,18 +27,33 @@ B. ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](do
 .  
 .  
 
-  **II.** Elegir 2 objetos y mencionar 10 cualidades de cada uno  
-  .  
-  .  
-  .  
-  a. Lentes  
+  **II. Elegir 2 objetos y mencionar 10 cualidades de cada uno** 
+   
+  *A. Lentes*  
   ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](lentes.jpg)
-  .   
-  .  
-  .  
-  b. Squishy  
+
+*1. Accesorio    
+2. Semi transparente  
+3. Refleja luz amarilla  
+4. Ligero  
+5. Cómodo  
+6. Forma de estrella  
+7. Bordes redondeados  
+8. Llamativo  
+9. Divertido   
+10. Visión cálida*  
+  
+  *B. Squishy*  
   ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](squishy.jpg)
-  .  
-  .  
-  .  
+
+*1. Pegajoso  
+2. Pequeño  
+3. Ligero  
+4. Sucio  
+5. Oloroso  
+6. Diseño simple   
+7. Aplastable  
+8. Estampado chueco   
+9. Tierno  
+10. Base rosa pálido*
 

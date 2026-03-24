@@ -11,7 +11,7 @@ Ej: ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](h
 
         
 ## Tareas  
-  **I.** Analizar las obras de Mateo Cereceda y Gabriela Inostroza en la muestra *Analog ROOT* de la galería UNIACC según lo visto en clases (ontología de objetos y metáfora)  
+  **I. Analizar las obras de Mateo Cereceda y Gabriela Inostroza en la muestra *Analog ROOT* de la galería UNIACC según lo visto en clases (ontología de objetos y metáfora)**  
 
     
 A. ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](neohaikusv2.jpg)  

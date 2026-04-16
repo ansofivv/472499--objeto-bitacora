@@ -12,20 +12,26 @@ Ej: ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](h
         
 ## Tareas  
   **I. Analizar las obras de Mateo Cereceda y Gabriela Inostroza en la muestra *Analog ROOT* de la galería UNIACC según lo visto en clases (ontología de objetos y metáfora)**  
-
     
+  *NOTA:  
+  Ontología: qué es como objeto, no que significa/ respetar su existencia  
+          Metáfora: contraposicion de 2 conceptos distintos/ interpretar   
+
+  
 A. ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](neohaikusv2.jpg)  
  "neoHaikus v2", Gabriela Inostroza  
- .  
- .  
- .  
+
+
+ La obra ramifica el ser del grillo, su figura aparece conviviendo en un entorno digital (bicho sobre el pc) y natural (bicho sobre una hoja), lo digital se conecta con los pensamientos (haikus) y lo natural a su canto, a su vez ambas son conectadas por el botón que hace al grillo cantar dando haikus. 
+ 
 
             
 B. ![https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-01/](donante%20universal.jpg)  
 "Donante universal", Mateo Cereceda  
-.  
-.  
-.  
+ 
+El tubo de vidro se llena de esta "sangre" para luego vaciarse, referenciando a su título, como donantes universales que crean para si mismos (se llenan) y para los demás (se vacían) 
+
+
 
   **II. Elegir 2 objetos y mencionar 10 cualidades de cada uno** 
    

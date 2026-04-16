@@ -5,4 +5,4 @@
 - Explicación de cómo usar *Sensor Logger*  
 - --> Vinculación con MVP  
   
-Datos recolectados:
+Datos recolectados: https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-03/Metadata.csv

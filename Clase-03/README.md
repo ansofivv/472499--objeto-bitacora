@@ -1,4 +1,4 @@
-# Clase 3
+# Clase 03
 
 ## Apuntes de clase  
 

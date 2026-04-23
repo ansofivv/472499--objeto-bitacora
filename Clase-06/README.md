@@ -8,4 +8,5 @@
 - Repaso de teoría base del curso
 ![Repaso.](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Repaso.jpg)
 
-💡: MVP -> Datos de obra. Relación física y logística
+💡: MVP -> Datos de obra. Relación física y logística  
+- Repaso de uso de ia´s en proyectos (correción de promts)

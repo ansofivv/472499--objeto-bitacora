@@ -10,4 +10,4 @@
 
 💡: MVP -> Datos de obra. Relación física y logística  
 - Repaso de uso de ia´s en proyectos (correción de promts)  
-Referente mencionado: Natalie Miebach -> Obra basada en datos 
+*Referente mencionado: Natalie Miebach -> Obra basada en datos*

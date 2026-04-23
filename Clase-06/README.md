@@ -5,3 +5,5 @@
 - Conversamos dudas de un correo anterior
 - Repaso y correciones de github
 2da mitad de clase
+! [Desc.] (link)
+![Repaso.](

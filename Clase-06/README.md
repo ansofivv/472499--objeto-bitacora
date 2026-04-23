@@ -15,3 +15,6 @@
 *- Aruma*   
 *- Brian Macken*  
 *- Alfredo Jaar: Sitio específico*
+
+### Encargo próxima semana  
+  - Repositorio ordenado e investigar sobre hambre, hambre, hambre

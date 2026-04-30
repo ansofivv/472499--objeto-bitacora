@@ -8,13 +8,16 @@
 - Repaso de teoría base del curso
 ![Repaso.](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Repaso.jpg)
 
-💡: MVP -> Datos de obra. Relación física y logística  
+
 - Repaso de uso de ia´s en proyectos (correción de promts)  
-*Referentes mencionados:*   
+- *Referentes mencionados:*   
 *- Natalie Miebach -> Obra basada en datos*   
 *- Aruma*   
 *- Brian Macken*  
 *- Alfredo Jaar: Sitio específico*
 
 ### Encargo próxima semana  
-  - Repositorio ordenado e investigar sobre hambre, hambre, hambre
+  - Repositorio ordenado  
+  - Investigar sobre hambre, hambre, hambre
+
+### Hambre, hambre, hambre 

@@ -21,4 +21,8 @@
   - Investigar sobre hambre, hambre, hambre
 
 ### Hambre, hambre, hambre 
-![foto de pag de inicio hambre, hambre, hambre](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Hambre%20hambre%20hambre.png)
+![foto de pag de inicio hambre, hambre, hambre](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Hambre%20hambre%20hambre.png)  
+Investigación:  
+
+
+Fanzines y libritos que me gustaron:

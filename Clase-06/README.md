@@ -23,6 +23,15 @@
 ### Hambre, hambre, hambre 
 ![foto de pag de inicio hambre, hambre, hambre](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Hambre%20hambre%20hambre.png)  
 Investigación:  
+![foto de investigación](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Hambre%2C%20hambre%2C%20hambre.jpg)
+  
+  
+Fanzines y libritos que me gustaron:  
 
+![foto 2](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Captura%20de%20pantalla%202026-05-05%20004152.png)
+ 
 
-Fanzines y libritos que me gustaron:
+![foto 3](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Captura%20de%20pantalla%202026-05-05%20004141.png)  
+  
+![foto 4](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Captura%20de%20pantalla%202026-05-05%20004118.png) 
+![foto 5]( )

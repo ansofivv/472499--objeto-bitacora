@@ -29,9 +29,7 @@ Investigación:
 Fanzines y libritos que me gustaron:  
 
 ![foto 2](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Captura%20de%20pantalla%202026-05-05%20004152.png)
- 
-
-![foto 3](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Captura%20de%20pantalla%202026-05-05%20004141.png)  
+![foto 3](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Captura%20de%20pantalla%202026-05-05%20004141.png)
+![foto 4](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Captura%20de%20pantalla%202026-05-05%20004118.png)  
   
-![foto 4](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Captura%20de%20pantalla%202026-05-05%20004118.png) 
-![foto 5]( )
+![foto 5](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-06/Captura%20de%20pantalla%202026-05-05%20004323.png)

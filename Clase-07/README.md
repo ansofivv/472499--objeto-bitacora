@@ -10,9 +10,10 @@ Actividad: Elegir 3 objetos de interés personal luego elegir una carta al azar 
 - Memoria  
 
 **Frase**  
-...
+![Frase de tarot artístico](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-07/Carta.jpg)
 
 **Relación**  
 ...  
 
-**Tabla**
+**Tabla**  
+...

@@ -3,5 +3,8 @@
 ### 1era parte: Hambre, Hambre, Hambre  
 - Nos explicaron cómo hacen los fanzines, qué tipos hacen, reciclaje del papel, copias y un poco de su historia y participaciones de H,H,H
 - Nos mostraron muchos fanzines
-- Nos dieron un regalo:   
+- Nos dieron un regalo:
+![regalo](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-08/Regalo%20HHH.jpg)
+*Foto de curso:
+
 

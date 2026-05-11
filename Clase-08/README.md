@@ -17,9 +17,9 @@
 
 - Definir un fanzine según lo que vimos en la salida + qué me interesa (material, comunitario, digitalizable, a mano, etc)
 ![Definición de fanzine](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-08/QueEsUnFanzine.jpg)
-- En base a eso: ¿Cómo a tráves de nuestra definición de fanzine llegar a soportes que no sean papel? (Processing, audio, etc)
-- 💡 Usar pantallas LCD, ej:
-![Pantalla lcd]()
+- En base a eso: ¿Cómo a tráves de nuestra definición de fanzine llegar a soportes que no sean papel? (Processing, audio, etc)  
+ 💡 Usar pantallas LCD, ej:  
+![Pantalla lcd](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-08/Captura%20de%20pantalla%202026-05-11%20011542.png)
 
    **Proyectos**  
 - Hasta 3 personas. Si es individual con alguien exterior (persona, comunidad)  

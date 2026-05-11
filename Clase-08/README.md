@@ -16,10 +16,13 @@
 ### 3era parte: Encargo  
 
 - Definir un fanzine según lo que vimos en la salida + qué me interesa (material, comunitario, digitalizable, a mano, etc)
+![Definición de fanzine]()
 - En base a eso: ¿Cómo a tráves de nuestra definición de fanzine llegar a soportes que no sean papel? (Processing, audio, etc)
 
    **Proyectos**  
 - Hasta 3 personas. Si es individual con alguien exterior (persona, comunidad)  
-- Traer idea de objeto de investigación: Objeto de estudio, base de datos, procedimiento
+- Traer idea de objeto de investigación: Objeto de estudio, base de datos, procedimiento  
+
+
 
 

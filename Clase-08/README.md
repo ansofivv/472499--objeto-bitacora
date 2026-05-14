@@ -23,8 +23,10 @@
 
    **Proyectos**  
 - Hasta 3 personas. Si es individual con alguien exterior (persona, comunidad)  
-  Integrantes: Anastasia Seguel,  
-- Traer idea de objeto de investigación: Objeto de estudio, base de datos, procedimiento  
+  Integrantes: Anastasia Seguel y Jazmín Santander  
+- Traer idea de objeto de investigación: Objeto de estudio, base de datos, procedimiento
+
+👉 https://github.com/ansofivv/472499--objeto-bitacora/tree/main/Pre%20Examen%20
 
 
 

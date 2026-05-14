@@ -9,3 +9,7 @@ Lluvia de ideas para llegar a un objeto:
 **Aplicación para lograr distorciones**: Datamoshing  
 
 **Datos**: Registros de video
+
+<img src="./Objetos Anastasia.jpg" width="350" height="700">
+
+<img src="./Objetos Jazmin.jpg" width="350" height="700">

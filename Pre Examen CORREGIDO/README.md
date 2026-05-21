@@ -12,13 +12,14 @@
 
 # ANTEPROYECTO
 **- Objeto de estudio**  
-Los visitantes del museo Violeta Parra 
+Los visitantes del museo Violeta Parra  
 
 **- Procedimiento**  
-Usar el glitch como una intervención únicamente visual, llegando así a una abstracción de la forma de los visitantes, convirtiéndolos en pinceladas andantes similar a las pinturas de Violeta Parra 
+Usar el glitch como una intervención únicamente visual, llegando así a una abstracción de la forma de los visitantes.
 
 **- Base de datos**  
-Usar ...
+Usar TouchDesigner para abstraer el tránsito de los visitantes    
 
 **- Retribución a HAMBRE, HAMBRE, HAMBRE**  
-Crear un fanzine donde explique nuestras operaciones respecto al glitch, interviniendo materialmente en la misma hoja 
+Crear un fanzine donde explique procesos de abstracción en ejemplos materiales, logrando así generar una especie de collage de material intervenido, pudiendo así ver una abstracción tanto digital como material. 
+

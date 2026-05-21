@@ -16,5 +16,6 @@ Lluvia de ideas para llegar a un objeto:
 
 ***Datos***: Registros de video (https://youtube.com/shorts/MGURZWdkCDw?si=4VJZKc8KCxstu2Dx)  
 
-## RETROALIMENTACIÓN 
+## RETROALIMENTACIÓN 14 de Mayo  
+![anotaciones de retroalimentación](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Pre%20Examen%20/retro.jpg)
 

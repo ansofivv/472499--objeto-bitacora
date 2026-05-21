@@ -24,8 +24,8 @@ A partir de los intereses dee ambas sobre el cuerpo y el espacio físico, se bus
 .  
   
 
-## RETROALIMENTACIÓN 14 de Mayo  
-![anotaciones de retroalimentación](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Pre%20Examen%20/retro.jpg)  
+## RETROALIMENTACIÓN 14 de Mayo   
+![anotaciones de retroalimentación](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Pre%20Examen%2014-05/retro.jpg)  
 
 **Preguntas que surgieron de la entrega:**  
 - Qué sucede con el sitio web? (cambia, no estable)  

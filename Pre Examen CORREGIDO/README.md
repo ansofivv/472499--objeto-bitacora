@@ -13,9 +13,10 @@
 # ANTEPROYECTO
 **- Objeto de estudio**  
 
+
 **- Procedimiento**  
 
 **- Base de datos**  
 
 **- Retribución a HAMBRE, HAMBRE, HAMBRE**  
-
+Crear un fanzine donde explique nuestras operaciones respecto al glitch, interviniendo materialmente en la misma hoja 

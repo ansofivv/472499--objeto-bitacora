@@ -14,5 +14,7 @@ Lluvia de ideas para llegar a un objeto:
 ***Aplicación para lograr distorciones***: Datamoshing, ej:  
 ![pruebas](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Pre%20Examen%20/Ej%20mosh.jpg)
 
-***Datos***: Registros de video (https://youtube.com/shorts/MGURZWdkCDw?si=4VJZKc8KCxstu2Dx)
+***Datos***: Registros de video (https://youtube.com/shorts/MGURZWdkCDw?si=4VJZKc8KCxstu2Dx)  
+
+## RETROALIMENTACIÓN 
 

@@ -11,7 +11,7 @@
 = Definir más la intención del glitch y la relación con MVP  
 
 # ANTEPROYECTO
-**- Objeto de estudio** 
+**- Objeto de estudio**  
 Los visitantes del museo Violeta Parra 
 
 **- Procedimiento**  

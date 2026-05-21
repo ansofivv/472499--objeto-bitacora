@@ -21,5 +21,5 @@ Tanto la cámara de vigilancia como los ojos tienen la misma función, lograr qu
 
 | Energía | Tiempo de monitoreo | Desvanecimientos (yo) | Glitch (cámara) |
 |---|---|---|---|
-| Alta | 3 horas | ... | ... |
-| Baja | 3 horas | ... | ... |
+| Alta | 1 hora | 0 | 2 |
+| Baja | 1 hora | 4 | 180 |

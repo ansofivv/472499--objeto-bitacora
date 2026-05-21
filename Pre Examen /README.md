@@ -35,3 +35,5 @@ A partir de los intereses dee ambas sobre el cuerpo y el espacio físico, se bus
    
 = Definir más la intención del glitch y la relación con MVP  
 
+
+## ANTEPROYECTO CORREGIDO 

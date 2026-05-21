@@ -15,7 +15,7 @@
 Los visitantes del museo Violeta Parra  
 
 **- Procedimiento**  
-Usar el glitch como una intervención únicamente visual, llegando así a una abstracción de la forma de los visitantes.
+Usar el glitch como una intervención únicamente visual, llegando así a una abstracción de la forma de los visitantes, enfocandonos en la comunidad y memoria que traen consigo al visitar el museo. Con esto crearemos así distintas escenas y retratos de Violeta Parra desde la comunidad que creó
 
 **- Base de datos**  
 Usar TouchDesigner para abstraer el tránsito de los visitantes    

@@ -3,9 +3,9 @@
 ![anotaciones de retroalimentación](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Pre%20Examen%2014-05/retro.jpg)  
 
 **Preguntas que surgieron de la entrega:**  
-- Qué sucede con el sitio web? (cambia, no e
-- Qué relación tienen los visitantes con el glstable)  
-- Porque glitch + Violeta Parra?  itch?
+- Qué sucede con el sitio web? (cambia, no es estable)
+- Qué relación tienen los visitantes con el glitch)  
+- Porque glitch + Violeta Parra?  
 - Qué tipo de cámara se usará? (del museo, nuestra, etc)   
    
 = Definir más la intención del glitch y la relación con MVP  
@@ -15,7 +15,8 @@
 Los visitantes del museo Violeta Parra  
 
 **- Procedimiento**  
-Usar el glitch como una intervención únicamente visual, llegando así a una abstracción de la forma de los visitantes, enfocandonos en la comunidad y memoria que traen consigo al visitar el museo. Con esto crearemos así distintas escenas y retratos de Violeta Parra desde la comunidad que creó
+Usar el glitch como una intervención únicamente visual, llegando así a una abstracción de la forma de los visitantes, enfocandonos en la comunidad y memoria que traen consigo al visitar el museo. Con esto crearemos así distintas escenas y retratos de Violeta Parra desde la comunidad que creó. 
+*Cámara: Nuestra*
 
 **- Base de datos**  
 Usar TouchDesigner para abstraer el tránsito de los visitantes    

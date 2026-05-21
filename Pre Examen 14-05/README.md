@@ -3,8 +3,7 @@
 ### Proceso:  
 
 Lluvia de ideas para llegar a un objeto:  
-
-![foto objetos ana](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Pre%20Examen%20/Objs%20anas.jpg)
+![foto objs ana](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Pre%20Examen%2014-05/Objs%20anas.jpg)
 
 <img src="./Objetos Jazmin.jpg" width="350" height="700">  
   

@@ -17,7 +17,7 @@ A partir de los intereses dee ambas sobre el cuerpo y el espacio físico, se bus
 ***Retribución a MVP***: Mini fanzine sobre el glitch  
 
 ***Aplicación para lograr distorciones***: Datamoshing, ej:  
-![pruebas](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Pre%20Examen%20/Ej%20mosh.jpg)
+![pruebas](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Pre%20Examen%2014-05/Ej%20mosh.jpg)
 
 ***Datos***: Registros de video (https://youtube.com/shorts/MGURZWdkCDw?si=4VJZKc8KCxstu2Dx)  
 .  

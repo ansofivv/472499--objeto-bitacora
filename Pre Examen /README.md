@@ -31,7 +31,8 @@ A partir de los intereses dee ambas sobre el cuerpo y el espacio físico, se bus
 **Preguntas que surgieron de la entrega:**  
 - Qué sucede con el sitio web? (cambia, no estable)  
 - Porque glitch + Violeta Parra?  
-- Qué relación tienen los visitantes con el glitch?   
+- Qué relación tienen los visitantes con el glitch?
+- Qué tipo de cámara se usará? (del museo, nuestra, etc)   
    
 = Definir más la intención del glitch y la relación con MVP  
 

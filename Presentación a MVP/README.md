@@ -9,7 +9,8 @@ Nos llamó la atención la figura de los visitantes del museo y cómo ellos sigu
 
 Experimentaciones:  
 - https://drive.google.com/file/d/1D47lJKxtlRwx1NeAiePNM8F5Ab9x58rw/view?usp=drivesdk  
-- https://drive.google.com/file/d/1VR61SI6IiSGbVqGpzkVac19wpAQrvkeC/view?usp=drivesdk  
+- https://drive.google.com/file/d/1VR61SI6IiSGbVqGpzkVac19wpAQrvkeC/view?usp=drivesdk
+![experimentación1](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Presentaci%C3%B3n%20a%20MVP/Captura%20de%20pantalla%202026-06-04%20045640.png)
  
 
 

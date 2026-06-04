@@ -2,14 +2,15 @@
 ### Objeto de estudio: 
 Visitantes del museo de Violeta Parra 
 ### Procedimiento: 
-En touchdesigner crear 
-
+Crear mediante el recorrido de los visitantes del museo una abstracción de su forma, llegando a distintos tipos de distorción y entención del cuerpo para generar un video en base a distintas escenas e imagenes pertenecientes a Violeta Parra.  
 ### Interés: 
-Nos fijamos en los visitantes del museo debido a que al ir al museo siguen manteniendo viva su memoria y las obras que creó, 
+Nos llamó la atención la figura de los visitantes del museo y cómo ellos siguen manteniendo viva su memoria y legado cultural. Mediante los recorridos que generan al transitar por el museo y su avance por este comienzan a crear un imaginario sobre lo que fue Violeta Parra, mezclando la memoria colectiva y lo que cada uno siente al ver su obra. Nos interesa este aspecto de memoria, encuentro y sensibilidad que surge en distintas personas al momento de visitar el museo. 
 
 
+Experimentaciones:  
+- 
+-
 
-Usar el glitch como una intervención únicamente visual, llegando así a una abstracción de la forma de los visitantes, enfocandonos en la comunidad y memoria que traen consigo al visitar el museo. Con esto crearemos así distintas escenas y retratos de Violeta Parra desde la comunidad que creó. Cámara: Nuestra
 
 
 

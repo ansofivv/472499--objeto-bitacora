@@ -16,6 +16,6 @@
 .   
 .   
 
-*Experimentaciones:* 
+*Experimentaciones:*  
 ![experimentacion](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-10/Captura%20de%20pantalla%202026-06-08%20173207.png)
-![experimentacionn]()
+![experimentacionn](https://github.com/ansofivv/472499--objeto-bitacora/blob/main/Clase-10/Captura%20de%20pantalla%202026-06-08%20173157.png)
